@@ -22,6 +22,5 @@ export default function TransactionHistory({ items }) {
                 })}
             </tbody>
         </table>
-
     )
 }
